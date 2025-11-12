@@ -1,0 +1,22 @@
+{
+  "name": "devops-pipilines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulocarlosfilho/curso-devops.git"
+  },
+  "keywords": [],
+  "author": "Paulo CSF",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/paulocarlosfilho/curso-devops/issues"
+  },
+  "homepage": "https://github.com/paulocarlosfilho/curso-devops#readme"
+}
